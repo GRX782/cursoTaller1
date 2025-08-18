@@ -1,0 +1,48 @@
+Partida,Subpartida,Unidad,Cantidad,Observaciones/Supuestos
+Preliminares,Limpieza y preparación del terreno,m²,150,Área de lote estimada
+Preliminares,Trazado y nivelación,m²,150,Según huella + áreas exteriores
+Preliminares,Servicios provisionales y andamios,glb,1,Incluye seguridad y señalización
+Cimentación,Excavación de zapatas y vigas de fundación,m³,40,Profundidades típicas
+Cimentación,Sustitución de suelo (10 cm) con material competente,m³,7.5,0.10 m x 75 m² de huella
+Cimentación,Concreto ciclópeo en zapatas,m³,25,
+Cimentación,Vigas de fundación en concreto,m³,12,
+Cimentación,Acero de refuerzo en cimentación,ton,2.5,
+Estructura,Columnas de concreto armado,m³,20,
+Estructura,Entrepisos tipo vigueta y bovedilla,m²,75,Incluye losa colaborante
+Estructura,Escalera de concreto armado,ud,1,12-14 huellas aprox.
+Estructura,Viga corona,m³,25,
+Estructura - Aberturas,Mochetas/Jambas de puertas (0.15x0.20 m),m³,1.01,8 puertas; 2 jambas x 2.1 m
+Estructura - Aberturas,Dinteles de puertas (0.15x0.20 m),m³,0.288,8 puertas; luz ? 1.2 m
+Estructura - Aberturas,Mochetas/Jambas de ventanas (0.15x0.20 m),m³,1.008,12 ventanas; alto ? 1.4 m
+Estructura - Aberturas,Dinteles de ventanas (0.15x0.20 m),m³,0.54,12 ventanas; luz ? 1.5 m
+Estructura - Aberturas,Acero de refuerzo en mochetas y dinteles,ton,0.3,Estimado 100-120 kg/m³
+Mampostería,Bloque de concreto 15x20x40 cm,m²,350,
+Mampostería,Refuerzo horizontal y vertical en muros,ton,0.8,
+Mampostería,Mortero de pega,m³,12,
+Cubierta,Cerchas metálicas,ud,6,Espaciamiento 2.5–3.0 m (aprox.)
+Cubierta,Láminas de hierro galvanizado,m²,70,Incluye traslapes
+Cubierta,Caballete (cumbrera),ml,10,Longitud aproximada de cumbrera
+Cubierta,Botaguas (barge flashing),ml,12,Dos aleros a dos aguas
+Cubierta,Canales y bajantes pluviales,ml,25,
+Acabados,Repello y emboquillado fino,m²,650,
+Acabados,Cielos en gypsum/tablilla,m²,130,
+Acabados,Piso cerámico,m²,120,
+Acabados,Azulejo en baños y cocina,m²,45,
+Acabados,Pintura látex (muros y cielos),m²,650,
+Carpintería/Herrería,Puertas interiores de madera,ud,7,
+Carpintería/Herrería,Puerta principal de seguridad,ud,1,
+Carpintería/Herrería,Ventanas de aluminio con vidrio,m²,25,
+Carpintería/Herrería,Barandas metálicas (escaleras/balcón),ml,8,
+Instalaciones Eléctricas,Tuberías y cajas (embebidas),m²,150,Cobertura por área construida
+Instalaciones Eléctricas,Cableado y accesorios,punto,50,Rango 45-55 puntos
+Instalaciones Eléctricas,Tablero eléctrico (interior),ud,1,
+Instalaciones Eléctricas,Centro de carga (medidor + breaker principal),ud,1,"Incluye base, puesta a tierra y acometida corta"
+Instalaciones Hidrosanitarias,Red de agua fría,ml,60,
+Instalaciones Hidrosanitarias,Red de aguas negras y pluviales,ml,70,
+Instalaciones Hidrosanitarias,Aparatos sanitarios,ud,6,"2 baños, 1 pila, 1 fregadero"
+Obras Exteriores,Aceras perimetrales,m²,40,
+Obras Exteriores,Área verde/jardín,m²,50,
+Obras Exteriores,Muro de cerramiento liviano,ml,20,
+Equipamiento,Muebles de cocina en melamina,ml,4,
+Equipamiento,Closets sencillos en dormitorios,ml,8,
+Equipamiento,Accesorios de baño,jgo,2,
