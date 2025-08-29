@@ -1,0 +1,17 @@
+import os, time
+
+print("Consultando la memoria física instalada en el sistema...")
+
+# Simular un "reloj" mientras consulta
+for c in "|/-\\":
+    print(f"\rPor favor espere... {c}", end="")
+    time.sleep(0.3)
+
+# Usar comando de Windows para obtener la memoria (bytes)
+mem_bytes = os.popen("wmic computersystem get TotalPhysicalMemory").read()
+
+# Extraer solo el número
+for line in mem_bytes.splitlines():
+    if line.strip().isdigit():
+        mem_gb = int(line.strip()) / (1024**3)
+        print("\nLa memoria física instalada en la computadora es de: {:.2f} GB".format(mem_gb))
